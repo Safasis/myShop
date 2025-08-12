@@ -1,0 +1,5 @@
+com\example\myShop\entity\OrderTest.class
+com\example\myShop\service\MemberServiceTest.class
+com\example\myShop\MyShopApplicationTests.class
+com\example\myShop\entity\CartTest.class
+com\example\myShop\service\ItemServiceTest.class
