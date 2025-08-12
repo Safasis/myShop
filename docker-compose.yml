@@ -20,7 +20,7 @@ services:
       - myshop-network
 
   myshop-app:
-    image : Safasis/myShop:latest 
+    image: Safasis/myshop:latest 
     container_name: myshop-app
     ports:
       - "8080:8080"
